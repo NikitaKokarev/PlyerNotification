@@ -19,6 +19,10 @@ Or you can put this file to the Plyer directory:
 
 before build process (when buildozer downloads and sets up all the prerequisites for python-for-android, including the android SDK and NDK).
 
+## View:
+![img](https://github.com/NikitaKokarev/SpaceVim/blob/main/md_files/view_1.png)
+![img](https://github.com/NikitaKokarev/SpaceVim/blob/main/md_files/view_2.png)
+
 ## How to use with Buildozer:
 
 #### On Linux
