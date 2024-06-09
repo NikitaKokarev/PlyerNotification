@@ -1,7 +1,6 @@
 # PlyerNotification
 
 A simple demo application for Android, in which the Plyer logic for sending notifications has been restored.  
-Changed getting activity depending on api_version >= 31.
 
 <br>
 
